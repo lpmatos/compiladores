@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 
-"""Start compiler."""
+"""Start compyler."""
 
-from compiler.main import main
+from compyler.main import main
 
 if __name__ == "__main__":
     main()
