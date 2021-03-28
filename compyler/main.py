@@ -16,9 +16,13 @@ Options:
 from typing import NoReturn
 from docopt import docopt
 
+from compyler.cli import cli
+
+
 def main() -> NoReturn:
-  arguments = dict(docopt(__doc__))
-  cli(arguments)
+    arguments = dict(docopt(__doc__))
+    cli(arguments)
+
 
 if __name__ == "__main__":
     main()
