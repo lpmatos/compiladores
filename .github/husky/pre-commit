@@ -4,4 +4,5 @@
 . "$(dirname "$0")/_/husky.sh"
 
 echo "✨ Run gitleaks secrets scan"
+
 npm run secrets
