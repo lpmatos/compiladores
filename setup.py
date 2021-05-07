@@ -18,7 +18,7 @@ SHORT_DESCRIPTION = """
 IESB - [CCON7A-CCO076] - Projeto compiladores - Criação de um compilador para a linguagem SIMPLE.""".strip()
 
 DEPENDENCIES = [
-    "arrow==1.0.3",
+    "arrow==1.1.0",
     "asciimatics==1.12.0",
     "docopt==0.6.2",
     "rich==10.0.0",
