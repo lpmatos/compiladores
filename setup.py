@@ -21,7 +21,7 @@ DEPENDENCIES = [
     "arrow==1.0.3",
     "asciimatics==1.12.0",
     "docopt==0.6.2",
-    "rich==10.0.0",
+    "rich==10.3.0",
 ]
 
 URL = "https://github.com/lpmatos/compyler"
